@@ -1,0 +1,8 @@
+.cpTypeList li{
+    display: block!important;
+}
+.cpTypeList li span{
+    padding: 0!important;
+    width: 100%;
+    display: inline-block;
+}
